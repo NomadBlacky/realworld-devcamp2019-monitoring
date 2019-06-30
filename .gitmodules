@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/NomadBlacky/scala-play-realworld-example-app.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NomadBlacky/react-redux-realworld-example-app.git
